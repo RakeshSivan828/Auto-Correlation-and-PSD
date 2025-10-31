@@ -14,6 +14,8 @@ Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wien
 
 The Wiener-Khinchin theorem states that the power spectral density of a wide sense stationary random process is the Fourier transform of the corresponding autocorrelation function.
 
+<img width="582" height="91" alt="image" src="https://github.com/user-attachments/assets/97a4f64d-0270-4c6e-a1a7-901eb8df3794" />
+
 
 
 ## Algorithm
@@ -70,8 +72,7 @@ plot(fw2);
 
 OUTPUT:
 
-
-
+<img width="764" height="630" alt="image" src="https://github.com/user-attachments/assets/e094a63b-33fd-4dec-85fb-63d5bb408fae" />
 
 RESULT:
 Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
