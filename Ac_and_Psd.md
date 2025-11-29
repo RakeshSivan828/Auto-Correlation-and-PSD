@@ -73,7 +73,8 @@ plot(fw2);
 
 ## OUTPUT:
 
-<img width="764" height="630" alt="image" src="https://github.com/user-attachments/assets/e094a63b-33fd-4dec-85fb-63d5bb408fae" />
+<img width="978" height="643" alt="image" src="https://github.com/user-attachments/assets/8b212084-16f6-46f1-aa93-f8eff9e6fd59" />
+
 
 ## RESULT:
 
